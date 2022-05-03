@@ -1,0 +1,57 @@
+body {
+  background-color: #e8f9fd;
+  font-size: 1rem;
+}
+
+h1 {
+  color: #0aa1dd;
+  font-size: 1.8rem;
+}
+
+.contact,
+.h1 {
+  text-align: center;
+}
+
+h2 {
+  color: #0aa1dd;
+  font-size: 1.3rem;
+  text-align: center;
+}
+
+table {
+  margin: 0 auto;
+}
+
+.dots {
+  width: 3%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+}
+
+.profile {
+  width: 90%;
+}
+
+ul {
+  margin-left: 40%;
+}
+
+footer {
+  display: flexbox;
+  text-align: center;
+}
+
+/* .footer-link {
+  padding: 2%;
+} */
+
+section {
+  padding: 2%;
+}
+
+form {
+  text-align: center;
+}

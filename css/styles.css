@@ -1,57 +1,84 @@
 body {
-  background-color: #e8f9fd;
-  font-size: 1rem;
+  margin: 0;
+  text-align: center;
+  font-family: "poppins";
 }
 
 h1 {
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-family: "sacramento";
+  font-size: 5rem;
   color: #0aa1dd;
-  font-size: 1.8rem;
-}
-
-.contact,
-.h1 {
-  text-align: center;
 }
 
 h2 {
+  font-family: "sacramento";
+  font-size: 2.5rem;
+  margin: 0;
   color: #0aa1dd;
-  font-size: 1.3rem;
-  text-align: center;
 }
 
-table {
-  margin: 0 auto;
+h3 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0.2rem;
+  color: #2155cd;
 }
 
-.dots {
-  width: 3%;
-  border-style: none;
-  border-top-style: dotted;
-  border-color: grey;
-  border-width: 5px;
+.intro {
+  margin: 0;
+  font-size: 1.5em;
+  color: #0aa1dd;
 }
 
-.profile {
-  width: 90%;
+.top-container {
+  background-color: #e8f9fd;
+  position: relative;
+  padding-top: 100px;
 }
 
-ul {
-  margin-left: 40%;
+.edu,
+.inno {
+  text-decoration: underline;
 }
 
-footer {
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.educator {
+  width: 20%;
+}
+
+.innovator {
+  width: 15%;
+}
+
+p {
+  margin: 0;
+}
+
+img {
+  padding-top: 3%;
+  padding-bottom: 0.5%;
+}
+
+.bottom-container {
   display: flexbox;
-  text-align: center;
 }
 
-.footer {
-  padding: 2%;
-}
-
-section {
-  padding: 2%;
-}
-
-form {
-  text-align: center;
+a {
+  color: #2155cd;
 }
