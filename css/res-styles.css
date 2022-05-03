@@ -1,11 +1,11 @@
 body {
   background-color: #e8f9fd;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 h1 {
   color: #0aa1dd;
-  font-size: 1.8rem;
+  font-size: 2rem;
 }
 
 .contact,
@@ -15,7 +15,7 @@ h1 {
 
 h2 {
   color: #0aa1dd;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   text-align: center;
 }
 
