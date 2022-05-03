@@ -2,19 +2,20 @@ body {
   margin: 0;
   text-align: center;
   font-family: "poppins";
+  font-size: 1.5em;
 }
 
 h1 {
   margin-top: 50px;
   margin-bottom: 0;
   font-family: "sacramento";
-  font-size: 5rem;
+  font-size: 6rem;
   color: #0aa1dd;
 }
 
 h2 {
   font-family: "sacramento";
-  font-size: 2.5rem;
+  font-size: 4rem;
   margin: 0;
   color: #0aa1dd;
 }
@@ -22,7 +23,7 @@ h2 {
 h3 {
   font-family: "Poppins", sans-serif;
   font-weight: 200;
-  font-size: 1.2rem;
+  font-size: 2rem;
   text-transform: uppercase;
   margin: 0;
   padding: 0.2rem;
