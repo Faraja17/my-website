@@ -91,7 +91,11 @@ a:hover {
 
 .profile-pic {
   width: 11rem;
-  margin-bottom: 30px;
+  margin: 30px auto;
+}
+
+.profile-h2 {
+  margin-bottom: 20px;
 }
 
 .skill-row {
