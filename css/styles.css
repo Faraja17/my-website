@@ -40,6 +40,7 @@ h3 {
   background-color: #e8f9fd;
   position: relative;
   padding-top: 100px;
+  width: 100%;
 }
 
 .edu,
@@ -49,14 +50,18 @@ h3 {
 
 .top-cloud {
   position: absolute;
-  right: 30rem;
-  top: 4rem;
+  right: 30%;
+  top: 2rem;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 30rem;
-  bottom: 20rem;
+  left: 25%;
+  bottom: 15rem;
+}
+
+.mountain {
+  width: 30rem;
 }
 
 .educator {
