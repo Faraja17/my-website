@@ -50,18 +50,18 @@ h3 {
 
 .top-cloud {
   position: absolute;
-  right: 30%;
-  top: 2rem;
+  right: 20%;
+  top: 3rem;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 25%;
-  bottom: 15rem;
+  left: 21%;
+  bottom: 13rem;
 }
 
 .mountain {
-  width: 27rem;
+  width: 26rem;
 }
 
 .educator {
