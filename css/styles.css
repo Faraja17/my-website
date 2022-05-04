@@ -152,6 +152,7 @@ a:hover {
   background-image: -ms-linear-gradient(top, #55c3eb, #249dc9);
   background-image: -o-linear-gradient(top, #55c3eb, #249dc9);
   background-image: linear-gradient(to bottom, #55c3eb, #249dc9);
+  color: #ffffff;
   text-decoration: none;
 }
 
