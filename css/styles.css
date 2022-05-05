@@ -12,6 +12,15 @@ h1 {
   margin: 0;
 }
 
+@media screen and (min-width: 900px) {
+  h1 {
+    font-family: "sacramento";
+    font-size: 6rem;
+    color: #ffffff;
+    margin: 0;
+  }
+}
+
 h2 {
   font-family: "sacramento";
   font-size: 3.5rem;
@@ -59,7 +68,7 @@ a:hover {
 
 @media screen and (min-width: 900px) {
   .intro-bg {
-    width: 25rem;
+    width: 30rem;
     background-color: rgba(102, 179, 204, 0);
     margin: auto;
     border-radius: 50%;
@@ -70,6 +79,14 @@ a:hover {
   margin: 0;
   font-size: 1.3rem;
   color: #ffffff;
+}
+
+@media screen and (min-width: 900px) {
+  .intro {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #ffffff;
+  }
 }
 
 .top-container {
