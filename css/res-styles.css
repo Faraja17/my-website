@@ -9,9 +9,8 @@ h1 {
   font-size: 2rem;
 }
 
-.contact,
-.h1 {
-  text-align: center;
+section {
+  padding: 2%;
 }
 
 h2 {
@@ -22,6 +21,22 @@ h2 {
 
 table {
   margin: 0 auto;
+}
+
+ul {
+  margin-left: 40%;
+}
+
+footer {
+  display: flexbox;
+  text-align: center;
+  background-color: #0aa1dd;
+  padding: 50px 0 20px;
+  margin-top: 100px;
+}
+
+.h1 {
+  text-align: center;
 }
 
 .dots {
@@ -36,39 +51,8 @@ table {
   width: 90%;
 }
 
-ul {
-  margin-left: 40%;
-}
-
-.contact-me {
-  width: 50%;
-  margin: auto;
-  padding: 0;
-}
-
-.btn {
-  background: #0aa1dd;
-  background-image: -webkit-linear-gradient(top, #0aa1dd, #1a7ca3);
-  background-image: -moz-linear-gradient(top, #0aa1dd, #1a7ca3);
-  background-image: -ms-linear-gradient(top, #0aa1dd, #1a7ca3);
-  background-image: -o-linear-gradient(top, #0aa1dd, #1a7ca3);
-  background-image: linear-gradient(to bottom, #0aa1dd, #1a7ca3);
-  -webkit-border-radius: 8;
-  -moz-border-radius: 8;
-  border-radius: 8px;
-  font-family: "poppins";
-  color: #ffffff;
-  font-size: 20px;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
-}
-
-footer {
-  display: flexbox;
-  text-align: center;
-  background-color: #0aa1dd;
-  padding: 50px 0 20px;
-  margin-top: 100px;
+.skills {
+  font-size: 0.85em;
 }
 
 .footer-link {
@@ -89,12 +73,4 @@ footer {
   font-size: 0.85rem;
   margin: 20px;
   font-family: "poppins";
-}
-
-section {
-  padding: 2%;
-}
-
-form {
-  text-align: center;
 }
