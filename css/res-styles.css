@@ -23,6 +23,10 @@ table {
   margin: 0 auto;
 }
 
+th {
+  text-align: left;
+}
+
 ul {
   margin-left: 40%;
 }
@@ -51,8 +55,25 @@ footer {
   width: 90%;
 }
 
+.intro-link {
+  color: #0b4d68;
+  text-decoration: none;
+}
+
+.intro-link:hover {
+  color: #0aa1dd;
+}
+
+.work {
+  margin-left: 40%;
+}
+
 .skills {
   font-size: 0.85em;
+}
+
+.stars {
+  color: #0aa1dd;
 }
 
 .footer-link {
