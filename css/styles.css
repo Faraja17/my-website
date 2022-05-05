@@ -6,11 +6,10 @@ body {
 }
 
 h1 {
-  margin-top: 50px;
-  margin-bottom: 0;
   font-family: "sacramento";
-  font-size: 5rem;
-  color: #0aa1dd;
+  font-size: 6rem;
+  color: #ffffff;
+  margin: 0;
 }
 
 h2 {
@@ -53,14 +52,15 @@ a:hover {
 
 .intro {
   margin: 0;
-  font-size: 1.3em;
-  color: #0aa1dd;
+  font-size: 1.5em;
+  color: #ffffff;
 }
 
 .top-container {
+  background-image: url("../images/sakura.jpg");
+  background-repeat: no-repeat;
   background-color: #e8f9fd;
-  position: relative;
-  padding-top: 100px;
+  padding: 100px 0;
   width: 100%;
 }
 
