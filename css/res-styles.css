@@ -70,6 +70,10 @@ footer {
 }
 
 .skills {
+  width: 100%;
+}
+
+.skills-table {
   font-size: 0.85em;
 }
 
