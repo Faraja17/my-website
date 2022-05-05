@@ -7,7 +7,7 @@ body {
 
 h1 {
   font-family: "sacramento";
-  font-size: 6rem;
+  font-size: 5rem;
   color: #ffffff;
   margin: 0;
 }
@@ -50,15 +50,23 @@ a:hover {
   color: #addae4;
 }
 
+.intro-bg {
+  width: 25rem;
+  background-color: rgba(102, 179, 204, 0.5);
+  margin: auto;
+  border-radius: 50%;
+}
+
 .intro {
   margin: 0;
-  font-size: 1.5em;
+  font-size: 1.3rem;
   color: #ffffff;
 }
 
 .top-container {
   background-image: url("../images/sakura.jpg");
   background-repeat: no-repeat;
+  background-size: cover;
   background-color: #e8f9fd;
   padding: 100px 0;
   width: 100%;
@@ -67,22 +75,6 @@ a:hover {
 .edu,
 .inno {
   text-decoration: underline;
-}
-
-.top-cloud {
-  position: absolute;
-  right: 20%;
-  top: 3rem;
-}
-
-.bottom-cloud {
-  position: absolute;
-  left: 21%;
-  bottom: 13rem;
-}
-
-.mountain {
-  width: 26rem;
 }
 
 .profile {
