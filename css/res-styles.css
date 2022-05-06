@@ -10,7 +10,7 @@ h1 {
 }
 
 section {
-  width: 50%;
+  width: 100%;
   margin: auto;
 }
 
@@ -29,19 +29,26 @@ hr {
 
 table {
   margin: 0 auto;
-}
-
-th {
+  font-size: 0.8em;
   text-align: left;
 }
 
+th {
+  padding: 0;
+}
+
+td {
+  padding: 0 20px 0 0;
+}
+
 ul {
-  margin: 0 30% 0 50%;
+  margin: 0 0% 0 50%;
   padding: 0%;
 }
 
 li,
-p {
+p,
+td {
   line-height: 2;
 }
 
@@ -90,15 +97,11 @@ footer {
 }
 
 .work {
-  margin: auto;
+  margin: 0 auto;
 }
 
 .skills {
   width: 100%;
-}
-
-.skills-table {
-  font-size: 0.85em;
 }
 
 .stars {
