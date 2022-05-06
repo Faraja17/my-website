@@ -107,7 +107,7 @@ a:hover {
 }
 
 .skill-row {
-  width: 350px;
+  width: 400px;
   margin: 60px auto 100px auto;
   text-align: left;
 }
@@ -135,8 +135,15 @@ a:hover {
 }
 
 .contact-me {
-  width: 50%;
+  width: 400px;
   margin: auto;
+}
+
+@media screen and (min-width: 900px) {
+  .contact-me {
+    width: 50%;
+    margin: auto;
+  }
 }
 
 .contact-h3 {
