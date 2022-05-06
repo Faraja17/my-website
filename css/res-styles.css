@@ -33,6 +33,14 @@ table {
   text-align: left;
 }
 
+@media screen and (min-width: 900px) {
+  table {
+    margin: 0 auto;
+    font-size: 1.2em;
+    text-align: left;
+  }
+}
+
 th {
   padding: 0;
 }
