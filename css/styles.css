@@ -71,6 +71,7 @@ a:hover {
     margin: 0;
     font-size: 1.5rem;
     color: #2b6d88;
+    font-family: "Poppins";
   }
 }
 
@@ -160,7 +161,7 @@ a:hover {
 
 .bottom-container {
   display: flexbox;
-  background-color: #0982b3;
+  background-color: #064c68;
   padding: 50px 0 20px;
   margin-top: 100px;
 }
