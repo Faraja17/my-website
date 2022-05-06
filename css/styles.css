@@ -133,11 +133,11 @@ a:hover {
 
 .btn {
   background: #0aa1dd;
-  background-image: -webkit-linear-gradient(top, #0aa1dd, #1a7ca3);
-  background-image: -moz-linear-gradient(top, #0aa1dd, #1a7ca3);
-  background-image: -ms-linear-gradient(top, #0aa1dd, #1a7ca3);
-  background-image: -o-linear-gradient(top, #0aa1dd, #1a7ca3);
-  background-image: linear-gradient(to bottom, #0aa1dd, #1a7ca3);
+  background-image: -webkit-linear-gradient(top, #0aa1dd, #2b6d88);
+  background-image: -moz-linear-gradient(top, #0aa1dd, #2b6d88);
+  background-image: -ms-linear-gradient(top, #0aa1dd, #2b6d88);
+  background-image: -o-linear-gradient(top, #0aa1dd, #2b6d88);
+  background-image: linear-gradient(to bottom, #0aa1dd, #2b6d88);
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
