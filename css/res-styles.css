@@ -36,7 +36,13 @@ th {
 }
 
 ul {
-  margin: 0 50% 0 30%;
+  margin: 0 30% 0 50%;
+  padding: 0%;
+}
+
+li,
+p {
+  line-height: 2;
 }
 
 footer {
