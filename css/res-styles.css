@@ -20,6 +20,13 @@ h2 {
   text-align: center;
 }
 
+hr {
+  border: dotted #addae4 10px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
 table {
   margin: 0 auto;
 }
@@ -42,14 +49,6 @@ footer {
 
 .h1 {
   text-align: center;
-}
-
-.dots {
-  width: 3%;
-  border-style: none;
-  border-top-style: dotted;
-  border-color: grey;
-  border-width: 5px;
 }
 
 .profile {
