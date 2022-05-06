@@ -14,7 +14,7 @@ body {
 
 h1 {
   color: #2b6d88;
-  font-size: 3.3rem;
+  font-size: 1.8rem;
 }
 
 section {
@@ -72,10 +72,9 @@ footer {
 }
 
 .profile {
-  width: 500px;
+  width: 350px;
   margin: 0 auto;
   text-align: left;
-  padding-left: 20px;
 }
 
 @media screen and (min-width: 900px) {
