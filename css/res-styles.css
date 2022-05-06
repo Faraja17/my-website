@@ -107,9 +107,15 @@ footer {
   padding-left: 20px;
 }
 @media screen and (min-width: 900px) {
-.work {
-  margin: 0 auto;
-  padding: 0;
+  .work {
+    margin: 0 auto;
+    padding: 0;
+  }
+}
+
+.work-tr th,
+.work-tr td {
+  border-bottom: 1px solid #addae4;
 }
 
 .skills {
