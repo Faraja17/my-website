@@ -2,7 +2,16 @@ body {
   margin: 0;
   text-align: center;
   font-family: "poppins";
-  font-size: 1.2em;
+  font-size: 1em;
+}
+
+@media screen and (min-width: 900px) {
+  body {
+    margin: 0;
+    text-align: center;
+    font-family: "poppins";
+    font-size: 1.2em;
+  }
 }
 
 h1 {
@@ -98,9 +107,17 @@ a:hover {
 }
 
 .skill-row {
-  width: 50%;
+  width: 350px;
   margin: 60px auto 100px auto;
   text-align: left;
+}
+
+@media screen and (min-width: 900px) {
+  .skill-row {
+    width: 1000px;
+    margin: 60px auto 100px auto;
+    text-align: left;
+  }
 }
 
 .educator {
