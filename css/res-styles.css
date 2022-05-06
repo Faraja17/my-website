@@ -104,6 +104,12 @@ footer {
 
 .work {
   margin: 0 auto;
+  padding-left: 20px;
+}
+@media screen and (min-width: 900px) {
+.work {
+  margin: 0 auto;
+  padding: 0;
 }
 
 .skills {
