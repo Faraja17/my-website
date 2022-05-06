@@ -57,12 +57,13 @@ footer {
 }
 
 .intro-link {
-  color: #0b4d68;
+  color: #0aa1dd;
   text-decoration: none;
+  font-weight: bolder;
 }
 
 .intro-link:hover {
-  color: #0aa1dd;
+  color: #6bcaf0;
 }
 
 .work {
