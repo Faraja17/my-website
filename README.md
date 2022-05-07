@@ -26,7 +26,8 @@ Here is my completed personal website (and resume) project.  Some of my progress
 ### Screenshots
 | <b>Mobile and Desktop Views</b>| 
 |:--:|
-|<a href="https://docs.google.com/presentation/d/1lDjLsPzyIulQBd-gjmHIG7CuiPRUcIDEz4hl7YOv0fE/edit?usp=sharing" target="_blank">Link to My Solutions on Google Slides</a>|
+|[Link to My Solutions on Google Slides](https://docs.google.com/presentation/d/1lDjLsPzyIulQBd-gjmHIG7CuiPRUcIDEz4hl7YOv0fE/edit?usp=sharing){:target="_blank"}
+<a href="https://docs.google.com/presentation/d/1lDjLsPzyIulQBd-gjmHIG7CuiPRUcIDEz4hl7YOv0fE/edit?usp=sharing" target="_blank">Link to My Solutions on Google Slides</a>|
 
 ### Links
 
