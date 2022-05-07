@@ -24,14 +24,9 @@ Here is my completed personal website (and resume) project.  Some of my progress
 
 
 ### Screenshots
-| <b>Mobile View</b>| 
+| <b>Mobile and Desktop Views</b>| 
 |:--:|
-| ![My Solution for Mobile]() |
-
-| <b>Desktop View</b>| 
-|:--:|
-| ![My Solution for Desktop]() |
-
+| ![Link to My Solutions on Google Slides](https://docs.google.com/presentation/d/1lDjLsPzyIulQBd-gjmHIG7CuiPRUcIDEz4hl7YOv0fE/edit?usp=sharing) |
 
 ### Links
 
