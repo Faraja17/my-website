@@ -24,9 +24,13 @@ Here is my completed personal website (and resume) project.  Some of my progress
 
 
 ### Screenshots
-| <b>Mobile and Desktop Views</b>| 
+| <b>Mobile and Desktop Views</b> | 
 |:--:|
-|[Link to My Solutions on Google Slides](https://docs.google.com/presentation/d/1lDjLsPzyIulQBd-gjmHIG7CuiPRUcIDEz4hl7YOv0fE/edit?usp=sharing)|
+| ![Personal Website](https://raw.githubusercontent.com/Faraja17/my-website/main/images/Personal%20Website.png) |
+|:--:|
+| ![Resume](https://raw.githubusercontent.com/Faraja17/my-website/main/images/Resume.png) |
+|:--:|
+| [Link to My Solutions on Google Slides](https://docs.google.com/presentation/d/1lDjLsPzyIulQBd-gjmHIG7CuiPRUcIDEz4hl7YOv0fE/edit?usp=sharing) |
 
 ### Links
 
