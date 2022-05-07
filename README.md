@@ -24,12 +24,16 @@ Here is my completed personal website (and resume) project.  Some of my progress
 
 
 ### Screenshots
-| <b>Mobile and Desktop Views</b> | 
+#### Mobile and Desktop Views
+
+| <b>Personal Website</b> | 
 |:--:|
 | ![Personal Website](https://raw.githubusercontent.com/Faraja17/my-website/main/images/personal-website.png) |
+
+| <b>Resume</b> | 
 |:--:|
 | ![Resume](https://raw.githubusercontent.com/Faraja17/my-website/main/images/Resume.png) |
-|:--:|
+
 | [Link to My Solutions on Google Slides](https://docs.google.com/presentation/d/1lDjLsPzyIulQBd-gjmHIG7CuiPRUcIDEz4hl7YOv0fE/edit?usp=sharing) |
 
 ### Links
