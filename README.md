@@ -26,7 +26,7 @@ Here is my completed personal website (and resume) project.  Some of my progress
 ### Screenshots
 | <b>Mobile and Desktop Views</b> | 
 |:--:|
-| ![Personal Website](https://raw.githubusercontent.com/Faraja17/my-website/main/images/Personal%20Website.png) |
+| ![Personal Website](https://raw.githubusercontent.com/Faraja17/my-website/main/images/personal-website.png) |
 |:--:|
 | ![Resume](https://raw.githubusercontent.com/Faraja17/my-website/main/images/Resume.png) |
 |:--:|
