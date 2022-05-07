@@ -1,6 +1,6 @@
 # Personal Website HTML + CSS Project
 
-The Complete 2022 Web Development Bootcamp, Sections 2-5: Intro and Intermediate HTML and CSS - Dr. Angela Yu
+The Complete 2022 Web Development Bootcamp, Sections 2-5: Introductory and Intermediate HTML and CSS - Dr. Angela Yu
 
 Here is my completed personal website (and resume) project.  Some of my progress in real time was noted in the commit comments. 
 
