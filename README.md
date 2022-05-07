@@ -34,7 +34,10 @@ Here is my completed personal website (and resume) project.  Some of my progress
 |:--:|
 | ![Resume](https://raw.githubusercontent.com/Faraja17/my-website/main/images/Resume.png) |
 
-| [Link to My Solutions on Google Slides](https://docs.google.com/presentation/d/1lDjLsPzyIulQBd-gjmHIG7CuiPRUcIDEz4hl7YOv0fE/edit?usp=sharing) |
+| <b>More Screenshots</b> | 
+|:--:|
+| [![Link to Google Slides](link-to-slides.png)](https://docs.google.com/presentation/d/e/2PACX-1vROkxVyUGrL-H86BwdRjp2-pR0OU4mqIA1PmLdf0vh8ypV4msyidQBM9mZgJLeFc7AsDSrrOJjhP8Oe/pub?start=false&loop=false&delayms=3000&slide=id.g1270c083a6c_0_146) |
+
 
 ### Links
 
