@@ -39,6 +39,7 @@ Here is my completed personal website (and resume) project.  Some of my progress
 | <b>More Screenshots</b> | 
 |:--:|
 | [![Link to Google Slides](link-to-slides.png)](https://docs.google.com/presentation/d/e/2PACX-1vROkxVyUGrL-H86BwdRjp2-pR0OU4mqIA1PmLdf0vh8ypV4msyidQBM9mZgJLeFc7AsDSrrOJjhP8Oe/pub?start=false&loop=false&delayms=3000&slide=id.g1270c083a6c_0_146) |
+| [Direct Link to Google Presentation](https://docs.google.com/presentation/d/e/2PACX-1vROkxVyUGrL-H86BwdRjp2-pR0OU4mqIA1PmLdf0vh8ypV4msyidQBM9mZgJLeFc7AsDSrrOJjhP8Oe/pub?start=false&loop=false&delayms=3000&slide=id.g1270c083a6c_0_146)|
 
 
 ### Links
