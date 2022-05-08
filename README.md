@@ -103,7 +103,7 @@ I feel that I can now create some websites for friends and family members.  I ha
 Faraja Thompson
 - [My Current Personal Website](https://faraja17.github.io/my-website/)
 - [My Blog: Teacher to Techie](https://faraja17.github.io/)
-- [Faraja Thompson, M.Ed.on LinkedIn](https://www.linkedin.com/in/faraja-thompson-m-ed-70885b8/)
+- [Faraja Thompson, M.Ed. on LinkedIn](https://www.linkedin.com/in/faraja-thompson-m-ed-70885b8/)
 
 ## Acknowledgments
 
