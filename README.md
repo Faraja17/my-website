@@ -34,12 +34,12 @@ This project involved building a stylized personal site inspired by the works of
 
 | <b>Personal Website</b> | 
 |:--:|
-| ![Personal Website](https://raw.githubusercontent.com/Faraja17/my-website/main/images/personal-website.png) |
+| [![Personal Website](personal-website.png)](https://ui.dev/amiresponsive?url=https://web.archive.org/web/20220508014514/https://faraja17.github.io/my-website/ |
 | [Direct Link to My Personal Website on Am I Responsive Website](https://ui.dev/amiresponsive?url=https://web.archive.org/web/20220508014514/https://faraja17.github.io/my-website/)|
 
 | <b>Resume</b> | 
 |:--:|
-| ![Resume](https://raw.githubusercontent.com/Faraja17/my-website/main/images/Resume.png) |
+| [![Resume](resume.png)](https://ui.dev/amiresponsive?url=https://web.archive.org/web/20220508014819/https://faraja17.github.io/my-website/resume.html) |
 | [Direct Link to My Resume on Am I Responsive Website](https://ui.dev/amiresponsive?url=https://web.archive.org/web/20220508014819/https://faraja17.github.io/my-website/resume.html)|
 
 | <b>More Screenshots</b> | 
