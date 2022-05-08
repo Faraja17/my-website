@@ -89,7 +89,7 @@ A side note: I also learned much more about Markdown through writing this README
 
 After finishing this project, I successfully completed an [HTML/CSS challenge](https://github.com/Faraja17/qr-challenge) from Frontend Mentor.  I am excited to complete additional Frontend Mentor challenges as I learn more Javascript and Python.
 
-I feel that I can now create some websites for friends and family members.  I have already begun learning Bootstrap, and I would probably use that heavily to streamline the process.  I am sure that eventually, as I learn more Bootstrap and JavaScript, I will want to revise this website, but I feel that it is perfect for now.  I am very pleased to have leaerned today how to archive my website through the [Wayback Machine Save Page Now feature](https://web.archive.org/), so that I can always revisit how my first successful website evolves as time passes.
+I feel that I can now create some websites for friends and family members.  I have already begun learning Bootstrap, and I would probably use that heavily to streamline the process.  I am sure that eventually, as I learn more Bootstrap and JavaScript, I will want to revise this website, but I feel that it is perfect for now.  I am very pleased to have learned today how to archive my website and resume through the [Wayback Machine Save Page Now feature](https://web.archive.org/), so that I can always revisit how my first successful website has evolved as time has passed.
 
 ### Useful resources
 
