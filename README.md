@@ -46,8 +46,10 @@ I decided to go the extra mile and use what I have learned about HTML and CSS to
 
 ### Links
 
-- Live Site URL: [Personal Website and Resume](https://web.archive.org/web/20220508014514/https://faraja17.github.io/my-website/)
-- Live on Am I Responsive: [Direct Link to My Personal Website on Am I Responsive Website](https://ui.dev/amiresponsive?url=https://web.archive.org/web/20220508014514/https://faraja17.github.io/my-website/)
+- Live Site URLs: [Personal Website | ](https://web.archive.org/web/20220508014514/https://faraja17.github.io/my-website/)
+                  [Resume](https://web.archive.org/web/20220508014819/https://faraja17.github.io/my-website/resume.html)
+- Live on Am I Responsive: [Personal Website |](https://ui.dev/amiresponsive?url=https://web.archive.org/web/20220508014514/https://faraja17.github.io/my-website/)
+                           [Resume](https://ui.dev/amiresponsive?url=https://web.archive.org/web/20220508014819/https://faraja17.github.io/my-website/resume.html)
 
 ## My process
 
