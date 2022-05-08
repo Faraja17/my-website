@@ -82,7 +82,7 @@ I learned a lot about selecting color scheme.  As I mentioned, I got attached to
 
 Overall, I gained much better control of positioning and design through my work on this project.
 
-A side note: I also learned much more about Markdown through writing this README page, especially for the Screenshots section.  I reviewed [how to set up a table](https://towardsdev.com/3-ways-to-add-a-caption-to-an-image-using-markdown-f2ca30562be6) and how to create links.  I through additional research, learned [how to simulate an embedded video](https://github.com/martinsolent/video-iframe).  I used this information to simulate an embedded Google Slide show, once I realized that I would not be able to use iframe code. It took a lot of trial and error to get the code right, but I finally did it!
+*A side note:* I also learned much more about Markdown through writing this README page, especially for the Screenshots section.  I reviewed [how to set up a table](https://towardsdev.com/3-ways-to-add-a-caption-to-an-image-using-markdown-f2ca30562be6) and how to create links.  I through additional research, learned [how to simulate an embedded video](https://github.com/martinsolent/video-iframe).  I used this information to simulate an embedded Google Slide show, once I realized that I would not be able to use iframe code. It took a lot of trial and error to get the code right, but I finally did it!
 
 
 ### Continued development
