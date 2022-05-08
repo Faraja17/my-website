@@ -47,7 +47,6 @@ This project involved building a stylized personal site inspired by the works of
 | [![Link to Google Slides](link-to-slides.png)](https://docs.google.com/presentation/d/e/2PACX-1vROkxVyUGrL-H86BwdRjp2-pR0OU4mqIA1PmLdf0vh8ypV4msyidQBM9mZgJLeFc7AsDSrrOJjhP8Oe/pub?start=false&loop=false&delayms=3000&slide=id.g1270c083a6c_0_146) |
 | [Direct Link to Google Presentation](https://docs.google.com/presentation/d/e/2PACX-1vROkxVyUGrL-H86BwdRjp2-pR0OU4mqIA1PmLdf0vh8ypV4msyidQBM9mZgJLeFc7AsDSrrOJjhP8Oe/pub?start=false&loop=false&delayms=3000&slide=id.g1270c083a6c_0_146)|
 
-
 ### Links
 
 - Live Site URLs: [Personal Website | ](https://web.archive.org/web/20220508014514/https://faraja17.github.io/my-website/)
@@ -61,7 +60,7 @@ I started out reviewing how to structure a website in HTML.  I created and linke
 
 At the end of the unit, I decided to extend my practice by using what I had learned about validity, accessibility, and responsiveness in a University of Michigan course on Coursera, Web Design for Everybody: Basics of Web Development & Coding.  I decided to incorporate the code of the rudimentary HTML index page as the resume.html linked to my new index file.  I added a bit of matching styling and also put it through the tests for validity, accessibility, and responsiveness.
 
-I used some old tricks I already knew to create my background image and the other illustrations.  I found all of the images through creative commons websites, I removed the backgrounds and added my own colors using [Remove.bg](https://remove.bg), Google Slides, and my computer's screenshot tool.  I did learn how to crop the images into circular shapes from Dr. Yu. It took a lot of trial and error to decide upon appropriate images, especially the bacground image.  I was going for a subtle embossed look, and I think that this [paper flower background](https://pixabay.com/illustrations/paper-flower-background-white-4794429/) is perfect.  It is bold and muted at the same time, a very elegant statement piece.  
+I used some old tricks I already knew to create my background image and the other illustrations.  I found all of the images through creative commons websites, I removed the backgrounds and added my own colors using [Remove.bg](https://remove.bg), Google Slides, and my computer's screenshot tool.  I did learn [how to crop the images into circular shapes](https://crop-circle.imageonline.co/) from Dr. Yu. It took a lot of trial and error to decide upon appropriate images, especially the bacground image.  I was going for a subtle embossed look, and I think that this [paper flower background](https://pixabay.com/illustrations/paper-flower-background-white-4794429/) is perfect.  It is bold and muted at the same time, a very elegant statement piece.  
 
 It was somewhat difficult to let go of the color scheme that I started out with, but it wasn't responsive, so it had to go.  I ultimately decided upon more contrasting font colors and a darker background for my footer, all still within the original turquoise color family.
 
