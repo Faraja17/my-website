@@ -21,7 +21,7 @@ I decided to go the extra mile and use what I have learned so far about HTML and
 - [The Directions](#frontend-mentor---qr-code-component) 
 
 ## Overview
-
+This project involved building a stylized personal site inspired by the works of [Sean Halpin](https://web.archive.org/web/20180819202235js_/http://seanhalpin.io/) and [Pascal van Gemert](http://www.pascalvangemert.nl/#/experiences).  We started out creating a very rudimentary webpage using mostly HTML, then we started a new file and learned how to use CSS in order to style the structure created with HTML.
 
 
 
@@ -70,8 +70,9 @@ I decided to go the extra mile and use what I have learned so far about HTML and
 
 ### Useful resources
 
-- []() - annotation
-- []() - annotation
+- [Pesticide Extension](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi/related) - This extension inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.
+- [Humans.fyi](https://humans.fyi/u/seanhalpin.io) - Sean Halpin's work featured on Humans.fyi, ". . .an inspiration gallery showcasing how personal websites look today."
+- [One Page Love](https://onepagelove.com/pascal-van-gemert) - Pascal Van Gemert's work featured on OnePageLove.com, ". . .the leading showcase of beautiful One Page websites, templates and resources."
 - 
 ## Author
 
