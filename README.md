@@ -62,7 +62,7 @@ At the end of the unit, I decided to extend my practice by using what I had lear
 
 I used some old tricks I already knew to create my background image and the other illustrations.  I found all of the images through creative commons websites, I removed the backgrounds and added my own colors using [Remove.bg](https://remove.bg), Google Slides, and my computer's screenshot tool.  I did learn [how to crop the images into circular shapes](https://crop-circle.imageonline.co/) from Dr. Yu. It took a lot of trial and error to decide upon appropriate images, especially the bacground image.  I was going for a subtle embossed look, and I think that this [paper flower background](https://pixabay.com/illustrations/paper-flower-background-white-4794429/) is perfect.  It is bold and muted at the same time, a very elegant statement piece.  
 
-It was somewhat difficult to let go of the color scheme that I started out with, but it wasn't responsive, so it had to go.  I ultimately decided upon more contrasting font colors and a darker background for my footer, all still within the original turquoise color family.
+It was somewhat difficult to let go of the color scheme that I started out with, but it wasn't accessible, so it had to go.  I ultimately decided upon more contrasting font colors and a darker background for my footer, all still within the original turquoise color family.
 
 
 ### Built with
