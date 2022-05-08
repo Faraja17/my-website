@@ -29,6 +29,7 @@ Here is my completed personal website (and resume) project.  Some of my progress
 | <b>Personal Website</b> | 
 |:--:|
 | ![Personal Website](https://raw.githubusercontent.com/Faraja17/my-website/main/images/personal-website.png) |
+| [Direct Link to Am I Responsive Website](https://ui.dev/amiresponsive?url=https://faraja17.github.io/my-website/)|
 
 | <b>Resume</b> | 
 |:--:|
