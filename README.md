@@ -34,7 +34,7 @@ This project involved building a stylized personal site inspired by the works of
 
 | <b>Personal Website</b> | 
 |:--:|
-| [![Personal Website](personal-website.png)](https://ui.dev/amiresponsive?url=https://web.archive.org/web/20220508014514/https://faraja17.github.io/my-website/ |
+| [![Personal Website](personal-website.png)](https://ui.dev/amiresponsive?url=https://web.archive.org/web/20220508014514/https://faraja17.github.io/my-website/) |
 | [Direct Link to My Personal Website on Am I Responsive Website](https://ui.dev/amiresponsive?url=https://web.archive.org/web/20220508014514/https://faraja17.github.io/my-website/)|
 
 | <b>Resume</b> | 
