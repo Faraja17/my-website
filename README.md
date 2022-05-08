@@ -4,7 +4,7 @@ The Complete 2022 Web Development Bootcamp, Sections 2-5: Introductory and Inter
 
 Here is my completed personal website (and resume) project.  Some of my progress and discoveries are noted in the commit comments.
 
-I decided to go the extra mile and use what I have learned about HTML and CSS to make sure that my website passed the W3C Markup Validation, the WAVE Web Accessibility Tool, and I did several checks for responsiveness.
+I decided to go the extra mile and use what I have learned so far about HTML and CSS to make sure that my website passed the W3C Markup Validation, the WAVE Web Accessibility Tool, and I did several checks for responsiveness.
 
 ## Table of contents
 
