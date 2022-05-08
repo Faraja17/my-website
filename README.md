@@ -22,6 +22,7 @@ I decided to go the extra mile and use what I have learned so far about HTML and
 ## Overview
 
 This project involved building a stylized personal site inspired by the works of [Sean Halpin](https://web.archive.org/web/20180819202235js_/http://seanhalpin.io/) and [Pascal van Gemert](http://www.pascalvangemert.nl/#/experiences).  I started out creating a very rudimentary website using mostly HTML, then I opened a new index file, and strengthened my knowledge of using CSS in order to style a structure created with HTML.  Some of my key take-aways from the HTML and CSS units:
+- HTML Boilertplate
 - HTML best practices
 - HTML forms
 - CSS best practices
