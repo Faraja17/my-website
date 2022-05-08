@@ -2,7 +2,9 @@
 
 The Complete 2022 Web Development Bootcamp, Sections 2-5: Introductory and Intermediate HTML and CSS - Dr. Angela Yu
 
-Here is my completed personal website (and resume) project.  Some of my progress in real time was noted in the commit comments. 
+Here is my completed personal website (and resume) project.  Some of my progress and discoveries are noted in the commit comments.
+
+I decided to go the extra mile and use what I have learned about HTML and CSS to make sure that my website passed the W3C Markup Validation, the WAVE Web Accessibility Tool, and I did several checks for responsiveness.
 
 ## Table of contents
 
@@ -29,12 +31,12 @@ Here is my completed personal website (and resume) project.  Some of my progress
 | <b>Personal Website</b> | 
 |:--:|
 | ![Personal Website](https://raw.githubusercontent.com/Faraja17/my-website/main/images/personal-website.png) |
-| [Direct Link to My Personal Website on Am I Responsive Website](https://ui.dev/amiresponsive?url=https://faraja17.github.io/my-website/)|
+| [Direct Link to My Personal Website on Am I Responsive Website](https://ui.dev/amiresponsive?url=https://web.archive.org/web/20220508014514/https://faraja17.github.io/my-website/)|
 
 | <b>Resume</b> | 
 |:--:|
 | ![Resume](https://raw.githubusercontent.com/Faraja17/my-website/main/images/Resume.png) |
-| [Direct Link to My Resume on Am I Responsive Website](https://ui.dev/amiresponsive?url=https://faraja17.github.io/my-website/resume.html)|
+| [Direct Link to My Resume on Am I Responsive Website](https://ui.dev/amiresponsive?url=https://web.archive.org/web/20220508014819/https://faraja17.github.io/my-website/resume.html)|
 
 | <b>More Screenshots</b> | 
 |:--:|
@@ -44,8 +46,8 @@ Here is my completed personal website (and resume) project.  Some of my progress
 
 ### Links
 
-- Live Site URL: [Personal Website and Resume](https://faraja17.github.io/my-website/)
-- Live on Am I Responsive: [Direct Link to My Personal Website on Am I Responsive Website](https://ui.dev/amiresponsive?url=https://faraja17.github.io/my-website/)
+- Live Site URL: [Personal Website and Resume](https://web.archive.org/web/20220508014514/https://faraja17.github.io/my-website/)
+- Live on Am I Responsive: [Direct Link to My Personal Website on Am I Responsive Website](https://ui.dev/amiresponsive?url=https://web.archive.org/web/20220508014514/https://faraja17.github.io/my-website/)
 
 ## My process
 
