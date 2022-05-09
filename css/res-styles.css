@@ -75,6 +75,7 @@ footer {
   width: 350px;
   margin: 0 auto;
   text-align: left;
+  padding-top: 50px;
 }
 
 @media screen and (min-width: 900px) {
@@ -82,6 +83,7 @@ footer {
     width: 1000px;
     margin: 0 auto;
     text-align: left;
+    padding-top: 100px;
   }
 }
 
