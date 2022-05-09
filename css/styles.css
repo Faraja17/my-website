@@ -19,7 +19,7 @@ h1 {
   font-size: 5rem;
   font-weight: bolder;
   color: #2b6d88;
-  margin: 0;
+  margin-bottom: 15px;
 }
 
 @media screen and (min-width: 900px) {
@@ -101,9 +101,8 @@ a:hover {
 }
 
 .nav-container {
-  position: absolute;
-  top: 0px;
-  right: 20px;
+  padding-right: 20px;
+  background-color: #e8f9fd;
 }
 
 .top-container {
@@ -111,7 +110,7 @@ a:hover {
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #e8f9fd;
-  padding: 200px 0;
+  padding: 150px 0 250px 0;
   width: 100%;
   box-sizing: content-box;
 }
