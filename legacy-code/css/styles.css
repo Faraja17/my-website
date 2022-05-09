@@ -1,4 +1,4 @@
- body {
+body {
   margin: 0;
   text-align: center;
   font-family: "poppins";
@@ -17,7 +17,6 @@
 h1 {
   font-family: "sacramento";
   font-size: 5rem;
-  font-weight: bolder;
   color: #2b6d88;
   margin: 0;
 }
@@ -27,7 +26,7 @@ h1 {
     font-family: "sacramento";
     font-size: 6rem;
     color: #2b6d88;
-    margin-bottom: 15px;
+    margin: 0;
   }
 }
 
@@ -52,13 +51,10 @@ p {
 }
 
 hr {
-  border: dotted #addae4 10px !important;
-  border-bottom: none !important;
-  width: 4% !important;
-  margin: 100px auto !important;
-  background-color: #ffffff00;
-  opacity: 1;
-  box-sizing: content-box;
+  border: dotted #addae4 10px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
 }
 
 a {
@@ -70,17 +66,6 @@ a {
 
 a:hover {
   color: #addae4;
-}
-
-.nav-item {
-  width: 150px;
-}
-
-.navbar-light .navbar-nav .nav-link {
-  color: #2b6d88;
-  font-family: "poppins";
-  font-weight: bolder;
-  opacity: 1;
 }
 
 .intro {
@@ -99,12 +84,6 @@ a:hover {
   }
 }
 
-.nav-container {
-  position: absolute;
-  top: 0px;
-  right: 20px;
-}
-
 .top-container {
   background-image: url("../images/flowers.png");
   background-repeat: no-repeat;
@@ -112,7 +91,6 @@ a:hover {
   background-color: #e8f9fd;
   padding: 200px 0;
   width: 100%;
-  box-sizing: content-box;
 }
 
 .profile {
