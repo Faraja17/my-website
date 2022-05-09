@@ -140,14 +140,14 @@ footer {
   color: #6bcaf0;
 }
 
-.work {
+.work-table {
   margin: 0 auto;
   padding: 0 10px 0 10px;
   width: 360px;
 }
 
 @media screen and (min-width: 600px) {
-  .work {
+  .work-table {
     margin: 0 auto;
     padding: 0;
     width: 580px;
@@ -155,7 +155,7 @@ footer {
 }
 
 @media screen and (min-width: 1000px) {
-  .work {
+  .work-table {
     margin: 0 auto;
     padding: 0;
     width: 625px;
@@ -172,7 +172,7 @@ footer {
   border-bottom: 1px solid #addae4;
 }
 
-.skills {
+.tech {
   width: 100%;
 }
 
