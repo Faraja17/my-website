@@ -6,6 +6,8 @@ Here is my completed personal website (and resume) project.  Some of my progress
 
 I decided to go the extra mile and use what I have learned so far about HTML and CSS to make sure that my website passed the W3C Markup Validation, the WAVE Web Accessibility Tool, and I did several checks for responsiveness.
 
+>*NOTE:* The screenshots and live Wayback Machine links below represent my website and resume as they appeared on May 8, 2022, at the culmination of this project.  To view the code as it was on that day, please visit the folder named [*legacy-code*](https://github.com/Faraja17/my-website/tree/main/legacy-code) in this repository.  The code directly within this *my-website* repository represents [my current personal website and resume](https://faraja17.github.io/my-website/), which I frequently update.  Of course, my entire commit history can still be viewed within this *my-website* repository. 
+
 ## Table of contents
 
 - [Overview](#overview)
