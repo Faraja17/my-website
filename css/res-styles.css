@@ -4,7 +4,15 @@ body {
   margin: 0;
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 600px) {
+  body {
+    background-color: #e8f9fd;
+    font-size: 1.1rem;
+    margin: 0;
+  }
+}
+
+@media screen and (min-width: 1000px) {
   body {
     background-color: #e8f9fd;
     font-size: 1.2rem;
@@ -78,9 +86,18 @@ footer {
   padding-top: 50px;
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 600px) {
   .profile {
-    width: 1000px;
+    width: 600px;
+    margin: 0 auto;
+    text-align: left;
+    padding-top: 100px;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .profile {
+    width: 980px;
     margin: 0 auto;
     text-align: left;
     padding-top: 100px;
@@ -126,17 +143,28 @@ footer {
 .work {
   margin: 0 auto;
   padding: 0 10px 0 10px;
+  width: 360px;
 }
-@media screen and (min-width: 700px) {
+
+@media screen and (min-width: 600px) {
   .work {
     margin: 0 auto;
     padding: 0;
+    width: 580px;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .work {
+    margin: 0 auto;
+    padding: 0;
+    width: 625px;
   }
 }
 
 .teach {
   margin: 0 auto;
-  width: 250px;
+  width: 380px;
 }
 
 .work-tr th,

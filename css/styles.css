@@ -5,7 +5,16 @@ body {
   font-size: 1em;
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 600px) {
+  body {
+    margin: 0;
+    text-align: center;
+    font-family: "poppins";
+    font-size: 1.1em;
+  }
+}
+
+@media screen and (min-width: 1000px) {
   body {
     margin: 0;
     text-align: center;
@@ -22,7 +31,16 @@ h1 {
   margin-bottom: 15px;
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 600px) {
+  h1 {
+    font-family: "sacramento";
+    font-size: 5.5rem;
+    color: #2b6d88;
+    margin-bottom: 15px;
+  }
+}
+
+@media screen and (min-width: 1000px) {
   h1 {
     font-family: "sacramento";
     font-size: 6rem;
@@ -91,9 +109,18 @@ a:hover {
   font-size: 1.3rem;
   color: #2b6d88;
   font-family: "Poppins";
+
+  @media screen and (min-width: 600px) {
+    .intro {
+      margin: 0;
+      font-size: 1.4rem;
+      color: #2b6d88;
+      font-family: "Poppins";
+    }
+  }
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 1000px) {
   .intro {
     margin: 0;
     font-size: 1.5rem;
@@ -138,9 +165,17 @@ a:hover {
   text-align: left;
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 600px) {
   .skill-row {
-    width: 1000px;
+    width: 580px;
+    margin: 60px auto 100px auto;
+    text-align: left;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .skill-row {
+    width: 980px;
     margin: 60px auto 100px auto;
     text-align: left;
   }
@@ -166,9 +201,16 @@ a:hover {
   margin: auto;
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 600px) {
   .contact-me {
-    width: 1000px;
+    width: 580px;
+    margin: auto;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .contact-me {
+    width: 980px;
     margin: auto;
   }
 }
