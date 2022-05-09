@@ -53,10 +53,10 @@ p {
 }
 
 hr {
-  border: dotted #addae4 10px !important;
-  border-bottom: none !important;
-  width: 4% !important;
-  margin: 100px auto !important;
+  border: dotted #addae4 10px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
   background-color: #ffffff00;
   opacity: 1;
   box-sizing: content-box;
@@ -103,6 +103,7 @@ a:hover {
 .nav-container {
   padding-right: 20px;
   background-color: #e8f9fd;
+  border-bottom: dotted #c8e8f0 10px;
 }
 
 .top-container {
