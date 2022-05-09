@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 700px) {
   body {
     background-color: #e8f9fd;
     font-size: 1.2rem;
@@ -78,7 +78,7 @@ footer {
   padding-top: 50px;
 }
 
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 700px) {
   .profile {
     width: 1000px;
     margin: 0 auto;
@@ -127,7 +127,7 @@ footer {
   margin: 0 auto;
   padding: 0 10px 0 10px;
 }
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 700px) {
   .work {
     margin: 0 auto;
     padding: 0;
