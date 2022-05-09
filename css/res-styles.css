@@ -15,6 +15,7 @@ body {
 h1 {
   color: #2b6d88;
   font-size: 2.4rem;
+  font-weight: bolder;
 }
 
 section {
@@ -24,6 +25,7 @@ section {
 
 h2 {
   color: #2b6d88;
+  font-weight: bolder;
   font-size: 1.5rem;
   text-align: center;
 }
@@ -33,6 +35,9 @@ hr {
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
+  background-color: #ffffff00;
+  opacity: 1;
+  box-sizing: content-box;
 }
 
 table {
@@ -46,11 +51,6 @@ th {
 
 td {
   padding: 0 20px 0 0;
-}
-
-ul {
-  margin: 0 auto;
-  width: 250px;
 }
 
 li,
@@ -85,6 +85,25 @@ footer {
   }
 }
 
+.nav-container {
+  padding-right: 20px;
+  background-color: #e8f9fd;
+  border-bottom: dotted #c8e8f0 10px;
+}
+
+.nav-item {
+  width: 150px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #2b6d88;
+  font-family: "poppins";
+  font-weight: bolder;
+  text-align: left;
+  padding-left: 10px;
+  opacity: 1;
+}
+
 .profile-pic {
   width: 16rem;
   float: left;
@@ -111,6 +130,11 @@ footer {
     margin: 0 auto;
     padding: 0;
   }
+}
+
+.teach {
+  margin: 0 auto;
+  width: 250px;
 }
 
 .work-tr th,
