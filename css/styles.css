@@ -109,8 +109,9 @@ a:hover {
   font-size: 1.3rem;
   color: #2b6d88;
   font-family: "Poppins";
-
-  @media screen and (min-width: 600px) {
+}
+  
+@media screen and (min-width: 600px) {
     .intro {
       margin: 0;
       font-size: 1.4rem;
@@ -135,6 +136,18 @@ a:hover {
   border-bottom: dotted #c8e8f0 10px;
 }
 
+
+.top-container {
+  background-image: url("../images/flowers.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #e8f9fd;
+  padding: 150px 0 200px 0;
+  width: 100%;
+  box-sizing: content-box;
+}
+
+@media screen and (min-width: 600px) {
 .top-container {
   background-image: url("../images/flowers.png");
   background-repeat: no-repeat;
@@ -143,6 +156,7 @@ a:hover {
   padding: 250px 0 300px 0;
   width: 100%;
   box-sizing: content-box;
+}
 }
 
 .profile {
