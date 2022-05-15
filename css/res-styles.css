@@ -180,6 +180,14 @@ footer {
   color: #2b6d88;
 }
 
+.umich {
+  list-style-type: none;
+}
+
+.cert {
+  font-size: 0.95rem;
+}
+
 .footer-link {
   color: #ffffff;
   font-family: "poppins";
