@@ -112,7 +112,6 @@ footer {
 
 .nav-item {
   width: 200px;
-  padding-right: 20px;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -121,6 +120,7 @@ footer {
   font-weight: bolder;
   text-align: left;
   opacity: 1;
+  padding-left: 10px;
 }
 
 .profile-pic {
