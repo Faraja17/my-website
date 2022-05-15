@@ -111,14 +111,15 @@ footer {
 }
 
 .nav-item {
-  width: 175px;
+  width: 200px;
+  padding-right: 20px;
 }
 
 .navbar-light .navbar-nav .nav-link {
   color: #2b6d88;
   font-family: "poppins";
   font-weight: bolder;
-  text-align: right;
+  text-align: left;
   opacity: 1;
 }
 
