@@ -140,40 +140,14 @@ footer {
   color: #6bcaf0;
 }
 
-.work-table {
-  margin: 0 auto;
-  padding: 0 10px 0 10px;
-  width: 360px;
-}
-
-@media screen and (min-width: 600px) {
-  .work-table {
-    margin: 0 auto;
-    padding: 0;
-    width: 580px;
-  }
-}
-
-@media screen and (min-width: 1000px) {
-  .work-table {
-    margin: 0 auto;
-    padding: 0;
-    width: 625px;
-  }
-}
-
 .teach {
   margin: 0 auto;
   width: 380px;
 }
 
-.work-tr th,
-.work-tr td {
-  border-bottom: 1px solid #addae4;
-}
-
-.tech {
-  width: 100%;
+.work-date {
+  color: #064c68;
+  padding-top: 5px;
 }
 
 .stars {
