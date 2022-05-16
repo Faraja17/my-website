@@ -1,23 +1,7 @@
 body {
   background-color: #e8f9fd;
-  font-size: 1rem;
+  font-size: 1.2rem;
   margin: 0;
-}
-
-@media screen and (min-width: 600px) {
-  body {
-    background-color: #e8f9fd;
-    font-size: 1.1rem;
-    margin: 0;
-  }
-}
-
-@media screen and (min-width: 1000px) {
-  body {
-    background-color: #e8f9fd;
-    font-size: 1.2rem;
-    margin: 0;
-  }
 }
 
 h1 {
@@ -168,10 +152,6 @@ footer {
 
 .umich {
   list-style-type: none;
-}
-
-.cert {
-  font-size: 0.95rem;
 }
 
 .footer-link {
