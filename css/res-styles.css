@@ -145,8 +145,16 @@ footer {
   width: 380px;
 }
 
+.tech {
+  padding-top: 10px;
+}
+
 .work-date {
   color: #064c68;
+  padding-top: 5px;
+}
+
+.work-job {
   padding-top: 5px;
 }
 
