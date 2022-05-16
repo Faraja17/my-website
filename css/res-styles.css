@@ -140,6 +140,10 @@ footer {
   color: #6bcaf0;
 }
 
+.row {
+  max-width: 100%;
+}
+
 .teach {
   margin: 0 auto;
   width: 380px;
