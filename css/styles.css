@@ -271,8 +271,14 @@ a:hover {
 
 }
 
-.portfolio-img {
-  padding-bottom: 100px;
+@media screen and (max-width: 600px) {
+  .portfolio-img {
+    width: 380px;
+  }
+}
+
+.portfolio-h3 {
+  padding-top: 100px;
 }
 
 .bottom-container {
