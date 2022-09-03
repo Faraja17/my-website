@@ -209,21 +209,21 @@ a:hover {
   padding: 0;
 }
 
-.contact-me {
+.contact-me, .portfolio {
   width: 380px;
   padding: 0 10px;
   margin: auto;
 }
 
 @media screen and (min-width: 600px) {
-  .contact-me {
+  .contact-me, .portfolio {
     width: 580px;
     margin: auto;
   }
 }
 
 @media screen and (min-width: 1000px) {
-  .contact-me {
+  .contact-me, .portfolio {
     width: 980px;
     margin: auto;
   }
@@ -234,7 +234,7 @@ a:hover {
   padding: 0;
 }
 
-.contact-p {
+.contact-p, .portfolio-p {
   margin: 20px auto 60px;
 }
 
