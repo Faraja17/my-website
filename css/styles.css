@@ -275,9 +275,19 @@ a:hover {
   color: #2b6d88;
 }
 
-@media screen and (max-width: 600px) {
   .portfolio-img {
     width: 380px;
+  }
+
+@media screen and (min-width: 600px) {
+  .portfolio-img {
+    width: 580px;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .portfolio-img {
+    width: 700px;
   }
 }
 
