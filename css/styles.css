@@ -266,6 +266,15 @@ a:hover {
   text-decoration: none;
 }
 
+.portfolio-btn {
+  border: 10px;
+
+}
+
+.portfolio-img {
+  padding-bottom: 100px;
+}
+
 .bottom-container {
   display: flexbox;
   background-color: #064c68;
