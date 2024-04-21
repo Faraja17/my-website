@@ -1,5 +1,5 @@
 body {
-  background-color: #e8f9fd;
+  /* background-color: #e8f9fd; */
   font-size: 1.2rem;
   margin: 0;
 }
@@ -90,7 +90,7 @@ footer {
 
 .nav-container {
   padding-right: 20px;
-  background-color: #e8f9fd;
+  /* background-color: #e8f9fd; */
   border-bottom: dotted #c8e8f0 10px;
 }
 
@@ -112,6 +112,7 @@ footer {
   float: left;
   margin: 0 50px;
   padding: 0;
+  border-radius: 50%;
 }
 
 .intro-link {
