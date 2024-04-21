@@ -119,10 +119,16 @@
       <a class="footer-link" href="https://github.com/Faraja17/" target="_blank">GitHub</a>
       <a class="fotter-link" href="resume.html">Resume</a>
       <a class="footer-link" href="https://hashnode.com/@faraja" target="_blank">Blog</a>
-      <!-- <p class="copyright"> &copy; new Date().getUTCFullYear() Faraja Thompson</p> -->
-      <p class="copyright"> &copy; 2024 Faraja Thompson</p>
+      <p class="copyright"> &copy; <span id="copyright"></span> Faraja Thompson</p>
     </footer>
-        
+    
+    <script>
+      // Get current date and time
+      const datetime = new Date().getUTCFullYear();
+      // Insert date and time into HTML
+      document.getElementById("copyright").innerHTML = datetime;
+    </script>
+
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->

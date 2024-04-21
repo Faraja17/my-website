@@ -303,8 +303,8 @@ a:hover {
   margin-top: 100px;
 }
 
-.copyright {
+#copyright, .copyright{
   color: #addae4;
   font-size: 0.85rem;
-  margin: 20px;
+  margin: 20px 0;
 }
