@@ -278,8 +278,15 @@
         <a class="footer-link" href="https://github.com/Faraja17/" target="_blank">GitHub</a>
         <a class="footer-link" href="index.html">Website</a>
         <a class="footer-link" href="https://hashnode.com/@faraja" target="_blank">Blog</a>
-        <p class="copyright">© 2022 Faraja Thompson</p>
-      </footer>
+        <p class="copyright"> &copy; <span id="copyright"></span> Faraja Thompson</p>
+    </footer>
+    
+    <script>
+      // Get current year
+      const year = new Date().getUTCFullYear();
+      // Insert year into HTML
+      document.getElementById("copyright").innerHTML = year;
+    </script>
         
 <!-- Optional JavaScript; choose one of the two! -->
 
