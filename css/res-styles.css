@@ -170,6 +170,10 @@ footer {
   font-weight: bold;
 }
 
+.degree {
+  font-style: italic;
+}
+
 .footer-link {
   color: #ffffff;
   font-family: "poppins";
