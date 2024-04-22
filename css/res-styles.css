@@ -133,6 +133,11 @@ footer {
   color: #6bcaf0;
 }
 
+.certs {
+  margin: 0 auto;
+  width: 400px;
+}
+
 .row {
   max-width: 100%;
 }
@@ -159,7 +164,7 @@ footer {
   color: #2b6d88;
 }
 
-.umich {
+.institution {
   list-style-type: none;
 }
 
