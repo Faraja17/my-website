@@ -166,6 +166,8 @@ footer {
 
 .institution {
   list-style-type: none;
+  font-style: italic;
+  font-weight: bold;
 }
 
 .footer-link {
