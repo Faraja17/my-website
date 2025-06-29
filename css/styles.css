@@ -235,7 +235,11 @@ a:hover {
   padding: 0;
 }
 
-.contact-p, .portfolio-p {
+.portfolio-p {
+  margin: 20px auto 100px;
+}
+
+.contact-p {
   margin: 20px auto 60px;
 }
 
